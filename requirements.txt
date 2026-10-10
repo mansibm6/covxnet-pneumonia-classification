@@ -1,0 +1,12 @@
+# Direct dependencies. Resolve in a separate Python 3.11 environment per project.
+# Tested-library lower bounds are not a complete reproducibility/security lock.
+ipykernel
+jupyterlab
+keras>=3.15.1,<4
+matplotlib>=3.11.2,<4
+numpy>=2.4.6,<3
+pydot
+scikit-learn>=1.9.1,<2
+seaborn>=0.13.2,<1
+tensorflow>=2.21.0,<3
+tqdm>=4.70.1,<5

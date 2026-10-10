@@ -1,0 +1,10 @@
+{
+  "required": [
+    "train_Normal_128.npy",
+    "train_Virus_128.npy",
+    "train_bacteria_128.npy",
+    "test_Normal_128.npy",
+    "test_Virus_128.npy",
+    "test_bacteria_128.npy"
+  ]
+}
